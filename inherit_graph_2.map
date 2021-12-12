@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structjwt_1_1algorithm_1_1hmacsha.html" title="Base class for HMAC family of algorithms." alt="" coords="5,56,163,83"/>
+<area shape="rect" id="node2" href="$structjwt_1_1algorithm_1_1hs256.html" title=" " alt="" coords="211,5,349,32"/>
+<area shape="rect" id="node3" href="$structjwt_1_1algorithm_1_1hs384.html" title=" " alt="" coords="211,56,349,83"/>
+<area shape="rect" id="node4" href="$structjwt_1_1algorithm_1_1hs512.html" title=" " alt="" coords="211,107,349,133"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="jwt::algorithm::es512" name="jwt::algorithm::es512">
+<area shape="rect" id="node1" title=" " alt="" coords="5,80,144,107"/>
+<area shape="rect" id="node2" href="$structjwt_1_1algorithm_1_1ecdsa.html" title="Base class for ECDSA family of algorithms." alt="" coords="5,5,144,32"/>
+</map>
